@@ -26,7 +26,7 @@
   <a href="mailto:orangestreet59123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/" target="_blank">
+  <a href="https://stephanievanoverberghe.github.io/cv-vanoverberghe-stephanie/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://stephanievanoverberghe.github.io" target="_blank">
