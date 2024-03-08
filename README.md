@@ -1,8 +1,10 @@
-# Hi 👋, I'm Stéphanie Vanoverberghe
+# Hi there 👋
 
 ## I'm passionate about frontend, which I explore to the fullest.
 
-I'm ***Stéphanie Vanoverberghe***. I live in France, precisely in Amiens. I love development and design. 
+![github](/images/icon.png)
+
+I'm **Stéphanie Vanoverberghe**. I live in France, precisely in Amiens. I love development and design. 
 - 🌱 Currently, I'm completing the "Application Developer Designer - JavaScript React specialty" diploma with the training organization Openclassrooms.
 
 
