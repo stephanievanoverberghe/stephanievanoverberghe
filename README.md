@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stéphanie Vanoverberghe</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h2 align="center">A passionate frontend developer from France</h2>
 
-- 🌱 I’m currently learning **JavaScript to Dyma and Openclassrooms**
+- 🌱 I’m currently learning **JavaScript with the Dyma training**
+- 🌱 I'm in the process of completing the **“Application Developer Designer – JavaScriptReact Specialty” diploma with the Openclassrooms training center**
 
 - 📫 How to reach me **orangestreet@live.fr**
 
