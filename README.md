@@ -1,14 +1,23 @@
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=stephanievanoverberghe&label=Profile%20views&color=0e75b6&style=flat" alt="stephanievanoverberghe" /> </p>
+<p align="right"> <img src= "https://komarev.com/ghpvc/?username=stephanievanoverberghe&label=Visitors&color=0084ff&style=flat" alt="stephanievanoverberghe" /> </p>
 
-# Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0084ff&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stéphanie+Vanoverberghe!;+I'm+live+in+France" />
+</h1>
 
-## I'm passionate about frontend, which I explore to the fullest.
+<h2 align="center" color="#edf6ff">I'm passionate about frontend, which I explore to the fullest.</h2>
 
-![github](https://myoctocat.com/assets/images/base-octocat.svg)
+<br/>
+
+<div align="center">
+  
+  🌱 Currently, I'm completing the <strong>"Concepteur Développeur d'Application - JavaScript React specialty"</strong> diploma with the training organization Openclassrooms.
+  
+</div>
+
+
 
 I'm **Stéphanie Vanoverberghe**. I live in France, precisely in Amiens. I love development and design. 
 - 🌱 Currently, I'm completing the "Application Developer Designer - JavaScript React specialty" diploma with the training organization Openclassrooms.
-
 
 
 - 📫 How to reach me **orangestreet@live.fr**
