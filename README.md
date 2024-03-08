@@ -1,7 +1,7 @@
 <p align="right"> <img src= "https://komarev.com/ghpvc/?username=stephanievanoverberghe&label=Visitors&color=0084ff&style=flat" alt="stephanievanoverberghe" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0084ff&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Stéphanie+Vanoverberghe+!;+I+live+in+France" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0084ff&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Stéphanie+Vanoverberghe+!;+I+live+in+France+🇫🇷" />
 </h1>
 
 <h2 align="center" color="#edf6ff">I'm passionate about frontend, which I explore to the fullest.</h2>
