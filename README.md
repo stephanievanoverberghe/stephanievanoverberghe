@@ -2,11 +2,11 @@
 <h2 align="center">A passionate frontend developer from France</h2>
 
 - 🌱 I’m currently learning **JavaScript with the Dyma training**
-- 🌱 I'm in the process of completing the **“Application Developer Designer – JavaScriptReact Specialty” diploma with the Openclassrooms training center**
+- 🌱 I'm completing the **“Application Developer Designer – JavaScriptReact Specialty” diploma with the Openclassrooms training center**
 
 - 📫 How to reach me **orangestreet@live.fr**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/stephanie-vanoverberghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-vanoverberghe" height="30" width="40" /></a>
 </p>
