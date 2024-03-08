@@ -1,8 +1,11 @@
 # Hi 👋, I'm Stéphanie Vanoverberghe
-<h2 align="center">A passionate frontend developer from France</h2>
 
-- 🌱 I’m currently learning **JavaScript with the Dyma training**
-- 🌱 I'm completing the **“Application Developer Designer – JavaScriptReact Specialty” diploma with the Openclassrooms training center**
+## I'm passionate about frontend, which I explore to the fullest.
+
+I'm ***Stéphanie Vanoverberghe***. I live in France, precisely in Amiens. I love development and design. 
+- 🌱 Currently, I'm completing the "Application Developer Designer - JavaScript React specialty" diploma with the training organization Openclassrooms.
+
+
 
 - 📫 How to reach me **orangestreet@live.fr**
 
