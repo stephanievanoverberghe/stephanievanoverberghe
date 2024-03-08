@@ -2,7 +2,7 @@
 
 ## I'm passionate about frontend, which I explore to the fullest.
 
-![github](https://myoctocat.com/assets/images/base-octocat.svg)
+![github]([https://myoctocat.com/assets/images/base-octocat.svg](https://camo.githubusercontent.com/2392f4f8f3d9452a3d2f770c0eab182a9f588a157443770089f2b369e942c577/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67))
 
 I'm **Stéphanie Vanoverberghe**. I live in France, precisely in Amiens. I love development and design. 
 - 🌱 Currently, I'm completing the "Application Developer Designer - JavaScript React specialty" diploma with the training organization Openclassrooms.
