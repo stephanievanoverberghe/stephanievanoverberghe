@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=stephanievanoverberghe.visitor-badge)
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=stephanievanoverberghe&label=Profile%20views&color=0e75b6&style=flat" alt="stephanievanoverberghe" /> </p>
 
 # Hi there 👋
 
