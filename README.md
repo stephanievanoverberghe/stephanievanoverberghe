@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stéphanie Vanoverberghe</h1>
+# Hi 👋, I'm Stéphanie Vanoverberghe
 <h2 align="center">A passionate frontend developer from France</h2>
 
 - 🌱 I’m currently learning **JavaScript with the Dyma training**
