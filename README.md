@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stephanievanoverberghe.stephanievanoverberghe" />
+
 # Hi there 👋
 
 ## I'm passionate about frontend, which I explore to the fullest.
