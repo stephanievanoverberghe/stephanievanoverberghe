@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,php,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,id" /><br>
 </div>
 
 <br/>
