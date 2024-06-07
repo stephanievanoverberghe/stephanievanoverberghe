@@ -10,7 +10,7 @@
 
 <div align="center">
     
-🔭 I’m currently working on **Norel Art**.<br/>
+🔭 I’m currently working on **My Portfolio**.<br/>
 <br/>
 🌱 Currently, I'm completing the **"Concepteur Développeur d'Application - JavaScript React specialty"** diploma with the training organization Openclassrooms.<br/>
 <br/>
