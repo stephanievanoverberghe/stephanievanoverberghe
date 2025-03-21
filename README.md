@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sass,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 
 </div>
