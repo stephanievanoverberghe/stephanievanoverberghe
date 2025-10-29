@@ -113,7 +113,7 @@
         <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0:8b5cf6,50:eab308,100:e2725b" alt="divider"/>
       </p>
       <ul>
-        <li>CI/CD de base, préviews Vercel, optimisation perf & SEO</li>
+        <li>Préviews Vercel, optimisation perf & SEO</li>
         <li>Workflows Git propres (branches, PR, conventions)</li>
       </ul>
       <p align="center">
