@@ -15,7 +15,7 @@
 <!-- LIENS RAPIDES / BADGES -->
 
 <p align="center">
-  <a href="https://stephanie-vanoverberghe-portfolio.vercel.app/"><img alt="Portfolio — Alchimiste Créations" src="https://img.shields.io/badge/Portfolio-Alchimiste%20Cr%C3%A9ations-0b1220?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8b5cf6"></a>
+  <a href="https://stephanie-vanoverberghe-portfolio.vercel.app/"><img alt="Portfolio — Vanoverberghe Stéphanie" src="https://img.shields.io/badge/Portfolio-Alchimiste%20Cr%C3%A9ations-0b1220?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8b5cf6"></a>
   <a href="mailto:orangestreet@live.fr"><img alt="E‑mail" src="https://img.shields.io/badge/Contact-E%E2%80%91mail-0b1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ef4444"></a>
   <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-St%C3%A9phanie-0b1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2"></a>
 </p>
@@ -192,7 +192,7 @@
 <p align="center">
   <a href="mailto:orangestreet@live.fr"><img src="https://img.shields.io/badge/%F0%9F%93%A7-E%E2%80%91mail-111827?style=for-the-badge&labelColor=ef4444"/></a>
   <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/"><img src="https://img.shields.io/badge/%F0%9F%93%88-LinkedIn-111827?style=for-the-badge&labelColor=0a66c2"/></a>
-  <a href="https://alchimiste-creations.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%9F-Portfolio-111827?style=for-the-badge&labelColor=8b5cf6"/></a>
+  <a href="https://stephanie-vanoverberghe-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%9F-Portfolio-111827?style=for-the-badge&labelColor=8b5cf6"/></a>
 </p>
 
 <!-- PIED DE PAGE / VAGUES -->
