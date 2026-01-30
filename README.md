@@ -150,29 +150,12 @@
 <h3 align="center">📊 Statistiques</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stephanievanoverberghe&theme=onedark&no-frame=true&row=1&column=6" alt="troph%C3%A9es"/>
-</p>
-
-<p align="center">
-  <picture>
-    <img width="49%" src="https://streak-stats.demolab.com?user=stephanievanoverberghe&theme=tokyonight-duo&hide_border=true" alt="s%C3%A9ries de commits"/>
-  </picture>
-  <picture>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stephanievanoverberghe&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true" alt="statistiques"/>
-  </picture>
-</p>
-
-<p align="center">
   <picture>
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievanoverberghe&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="langages principaux"/>
   </picture>
   <picture>
     <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=stephanievanoverberghe&bg_color=0d1117&color=8b5cf6&line=eab308&point=ffffff&area=true&hide_border=true" alt="graphe d'activit%C3%A9"/>
   </picture>
-</p>
-
-<p align="center">
-  <sub>Astuce : si un widget ne charge pas (rate‑limit), actualisez la page — tout est dynamique.</sub>
 </p>
 
 <p align="center">
@@ -192,7 +175,7 @@
 <p align="center">
   <a href="mailto:orangestreet@live.fr"><img src="https://img.shields.io/badge/%F0%9F%93%A7-E%E2%80%91mail-111827?style=for-the-badge&labelColor=ef4444"/></a>
   <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/"><img src="https://img.shields.io/badge/%F0%9F%93%88-LinkedIn-111827?style=for-the-badge&labelColor=0a66c2"/></a>
-  <a href="https://stephanie-vanoverberghe-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%9F-Portfolio-111827?style=for-the-badge&labelColor=8b5cf6"/></a>
+  <a href="https://alchimiste-creations.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%9F-Portfolio-111827?style=for-the-badge&labelColor=8b5cf6"/></a>
 </p>
 
 <!-- PIED DE PAGE / VAGUES -->
