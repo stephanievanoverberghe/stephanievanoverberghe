@@ -133,7 +133,7 @@
 ## 📫 Contact
 
 <p align="center">
-  stephanie-vanoverberghe@outlook.fr<br/>
+  <a href="mailto:stephanie-vanoverberghe@outlook.fr">Email</a> •
   <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/">LinkedIn</a> •
   <a href="https://stephanie-vanoverberghe.dev/">Portfolio</a>
 </p>
