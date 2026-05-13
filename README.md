@@ -42,7 +42,7 @@
 |------|---------|------|--------|
 | **Explor’Art** | UX éditoriale douce, pédagogique | Next.js · TS · Tailwind · MongoDB | 🟣 En cours |
 | **Norel Art** | E-commerce artistique + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | 🟡 En cours |
-| **Alchimiste Créations** | Studio freelance, conversion & clarté | Next.js · Tailwind | ✅ Terminé |
+| **Alchimiste Créations** | Studio freelance + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | ✅ Terminé |
 | **Ancre-toi** | Formation + espace membre | Next.js · MongoDB · Stripe | ✅ Front |
 
 <p align="center">
