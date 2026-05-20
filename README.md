@@ -103,8 +103,13 @@ Mes dépôts publics montrent aussi ma progression sur JavaScript, React, tests,
 ## Activité GitHub
 
 <p align="center">
-  <img height="165" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=stephanievanoverberghe&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true" />
-  <img height="165" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievanoverberghe&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
+  <a href="https://github.com/stephanievanoverberghe">
+    <img alt="Graphique d'activité GitHub de Stéphanie" src="https://github-readme-activity-graph.vercel.app/graph?username=stephanievanoverberghe&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;height=300&amp;days=45&amp;custom_title=Activit%C3%A9%20GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stephanievanoverberghe?tab=overview">Voir l'activité complète sur GitHub</a>
 </p>
 
 ## Contact
