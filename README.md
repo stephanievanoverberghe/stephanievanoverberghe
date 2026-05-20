@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Développeuse front-end React / Next.js</strong><br />
-  Interfaces claires, design soigné, code structuré.
+  Interfaces nettes, parcours lisibles, projets cadrés.
 </p>
 
 <p align="center">
@@ -23,19 +23,19 @@
 
 ## Profil
 
-Je conçois et développe des interfaces web avec **React**, **Next.js** et **TypeScript**.
+Je construis des interfaces web avec **React**, **Next.js** et **TypeScript**, avec une obsession assez simple : que l'écran raconte clairement ce qu'il faut faire.
 
-Mon objectif : transformer une idée, une offre ou un besoin métier en expérience claire, responsive et maintenable. J'aime les projets où il faut cadrer, structurer, designer, intégrer et documenter.
+Je ne m'intéresse pas seulement au rendu final. J'aime le travail juste avant : comprendre l'offre, hiérarchiser les contenus, choisir ce qui mérite d'être visible, puis transformer ça en composants propres et en pages qui tiennent sur mobile comme sur desktop.
 
-Aujourd'hui, je consolide une approche front-end solide tout en avançant sur les briques qui rendent un produit complet : base de données, paiement, email, authentification et back-office.
+Mes projets tournent souvent autour de contenus visuels, de services indépendants, de formations, de boutiques créatives ou d'espaces membres. J'avance aussi côté produit complet : données, paiement, email, authentification, back-office.
 
 ## Ce que je construis
 
-- Sites publics, portfolios et landing pages orientés contenu, SEO et conversion.
-- Interfaces React / Next.js avec composants réutilisables et architecture lisible.
-- Templates web pour créateurs, artistes, thérapeutes, petites marques et indépendants.
-- Espaces membres, back-offices et parcours avec validation, paiement et email.
-- Documentation projet, critères d'acceptation, lots de production et checklists qualité.
+- Des sites qui expliquent une offre sans noyer la personne sous les effets.
+- Des interfaces React / Next.js pensées en composants durables, pas en empilement de sections.
+- Des templates métiers qui gardent une vraie personnalité sans devenir compliqués à adapter.
+- Des parcours avec formulaire, espace membre, paiement, email ou administration.
+- Des briefs, lots, checklists et docs qui évitent au projet de partir dans tous les sens.
 
 ## Stack principale
 
@@ -72,15 +72,15 @@ Aujourd'hui, je consolide une approche front-end solide tout en avançant sur le
 
 | Projet | Type | Focus | Stack | Lien |
 | --- | --- | --- | --- | --- |
-| **Alchimiste Créations** | Studio freelance + admin | Cadrage, identité, UI, site de service | Next.js, TypeScript, Tailwind | En cours |
-| **Norel Art** | E-commerce artistique | Catalogue, admin, paiement, email | Next.js, Prisma, PostgreSQL, Stripe, Resend | [Voir](https://norel-art.vercel.app/) |
-| **Explor'Art** | Blog éditorial | UX de lecture, contenus, interface douce | Next.js, TypeScript, Tailwind | [Voir](https://explorart-blog.vercel.app/) |
-| **Ancre-toi** | Formation + espace membre | Parcours membre, paiement, ressources | Next.js, MongoDB, Stripe, Resend | [Voir](https://ancretoi.vercel.app/) |
-| **Présence Thérapeute** | Template métier | Structure commerciale, contenus, CMS | Next.js, Sanity, Tailwind | En cours |
+| **Alchimiste Créations** | Studio freelance + admin | Identité, cadrage, site de service, espace de gestion | Next.js, TypeScript, Tailwind | En cours |
+| **Norel Art** | E-commerce artistique | Catalogue, tunnel d'achat, admin, email | Next.js, Prisma, PostgreSQL, Stripe, Resend | [Voir](https://norel-art.vercel.app/) |
+| **Explor'Art** | Blog éditorial | Lecture confortable, contenus guidés, ambiance douce | Next.js, TypeScript, Tailwind | [Voir](https://explorart-blog.vercel.app/) |
+| **Ancre-toi** | Formation + espace membre | Parcours membre, ressources, paiement | Next.js, MongoDB, Stripe, Resend | [Voir](https://ancretoi.vercel.app/) |
+| **Présence Thérapeute** | Template métier | Pages de service, contenus administrables, CMS | Next.js, Sanity, Tailwind | En cours |
 
 ## Parcours technique
 
-Mes dépôts publics montrent aussi ma progression sur JavaScript, React, tests, API, Redux et TypeScript à travers plusieurs projets pédagogiques :
+Mes dépôts publics racontent aussi la progression avant les projets plus complets : manipulation du DOM, recherche JavaScript, tests, routing React, appels API, dashboard, Redux, TypeScript.
 
 <p>
   <a href="https://github.com/stephanievanoverberghe/ocr-p6-fisheye">Fisheye</a> /
@@ -94,11 +94,11 @@ Mes dépôts publics montrent aussi ma progression sur JavaScript, React, tests,
 
 ## Ma façon de travailler
 
-- Clarifier le besoin avant de produire.
-- Structurer les écrans, les contenus et les composants avant l'intégration.
-- Penser mobile, responsive, accessibilité et états d'interface.
-- Garder une architecture lisible, documentée et progressive.
-- Vérifier la qualité avec lint, typecheck, build et tests quand ils existent.
+- Je commence par mettre de l'ordre dans le besoin avant de mettre de l'ordre dans les fichiers.
+- Je préfère une page simple qui répond juste à la bonne question qu'une interface brillante mais confuse.
+- Je pense aux états qu'on oublie vite : mobile, erreur, vide, chargement, succès.
+- Je garde les composants lisibles, les contenus séparés et les décisions documentées.
+- Je vérifie ce que je peux vérifier : lint, typecheck, build, tests, liens et parcours.
 
 ## Activité GitHub
 
@@ -114,7 +114,7 @@ Mes dépôts publics montrent aussi ma progression sur JavaScript, React, tests,
 
 ## Contact
 
-Je suis ouverte aux échanges autour de projets front-end, sites Next.js, templates web, interfaces produit et expériences orientées contenu.
+Pour parler d'un site à clarifier, d'un template à construire, d'une interface à remettre d'aplomb ou d'un projet web qui mérite un vrai cadre, tu peux me retrouver ici.
 
 <p>
   <a href="mailto:stephanie-vanoverberghe@outlook.fr">Email</a> /
