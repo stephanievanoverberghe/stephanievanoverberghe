@@ -40,15 +40,14 @@
 
 | Projet | Direction | Stack | Statut |
 |------|---------|------|--------|
-| **Explor’Art** | UX éditoriale douce, pédagogique | Next.js · TS · Tailwind · MongoDB | 🟣 En cours |
-| **Norel Art** | E-commerce artistique + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | 🟡 En cours |
-| **Alchimiste Créations** | Studio freelance + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | ✅ Terminé |
+| **Alchimiste Créations** | Studio freelance + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | 🟡 En cours |
+| **Norel Art** | E-commerce artistique + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | 🟣 En cours |
+| **Explor’Art** | UX éditoriale douce, pédagogique | Next.js · TS · Tailwind · MongoDB | ✅ Front |
 | **Ancre-toi** | Formation + espace membre | Next.js · MongoDB · Stripe | ✅ Front |
 
 <p align="center">
-  <a href="https://explorart-blog.vercel.app/">Explor’Art</a> •
   <a href="https://norel-art.vercel.app/">Norel Art</a> •
-  <a href="https://alchimiste-creations.vercel.app/">Alchimiste</a> •
+  <a href="https://explorart-blog.vercel.app/">Explor’Art</a> •
   <a href="https://ancretoi.vercel.app/">Ancre-toi</a>
 </p>
 
