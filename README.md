@@ -1,142 +1,118 @@
-<!-- HEADER -->
+<!-- README profil GitHub - stephanievanoverberghe -->
+
+<h1 align="center">Stéphanie Vanoverberghe</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=St%C3%A9phanie%20Vanoverberghe&fontAlign=50&fontAlignY=40&fontSize=44&desc=Cr%C3%A9er%20·%20Comprendre%20·%20Construire&descAlign=50&descAlignY=62&color=gradient&customColorList=0:8b5cf6,40:eab308,80:e2725b,100:a3b18a"/>
+  <strong>Développeuse front-end React / Next.js</strong><br />
+  Interfaces claires, design soigné, code structuré.
 </p>
 
 <p align="center">
-  <strong>Développeuse Front-end</strong><br/>
-  React · Next.js · TypeScript
-</p>
-
-<p align="center">
-  <a href="https://stephanie-vanoverberghe.dev/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8b5cf6"/></a>
-  <a href="mailto:stephanie-vanoverberghe@outlook.fr"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e2725b"/></a>
-  <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2"/></a>
-</p>
-
----
-
-## ✨ Approche
-
-<p align="center">
-  Je conçois des interfaces qui vont à l’essentiel.<br/>
-  <strong>Comprendre avant impressionner.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clart%C3%A9-111827?style=flat&labelColor=8b5cf6"/>
-  <img src="https://img.shields.io/badge/Structure-111827?style=flat&labelColor=eab308"/>
-  <img src="https://img.shields.io/badge/Intention-111827?style=flat&labelColor=e2725b"/>
+  <a href="https://stephanie-vanoverberghe.dev/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:stephanie-vanoverberghe@outlook.fr">
+    <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Projets
+## Profil
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=0:8b5cf6,50:eab308,100:e2725b"/>
-</p>
+Je conçois et développe des interfaces web avec **React**, **Next.js** et **TypeScript**.
 
-| Projet | Direction | Stack | Statut |
-|------|---------|------|--------|
-| **Alchimiste Créations** | Studio freelance + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | 🟡 En cours |
-| **Norel Art** | E-commerce artistique + admin | Next.js · Node · PostgreSQL · Prisma · Stripe | 🟣 En cours |
-| **Explor’Art** | UX éditoriale douce, pédagogique | Next.js · TS · Tailwind · MongoDB | ✅ Front |
-| **Ancre-toi** | Formation + espace membre | Next.js · MongoDB · Stripe | ✅ Front |
+Mon objectif : transformer une idée, une offre ou un besoin métier en expérience claire, responsive et maintenable. J'aime les projets où il faut cadrer, structurer, designer, intégrer et documenter.
 
-<p align="center">
-  <a href="https://norel-art.vercel.app/">Norel Art</a> •
-  <a href="https://explorart-blog.vercel.app/">Explor’Art</a> •
-  <a href="https://ancretoi.vercel.app/">Ancre-toi</a>
-</p>
+Aujourd'hui, je consolide une approche front-end solide tout en avançant sur les briques qui rendent un produit complet : base de données, paiement, email, authentification et back-office.
 
----
+## Ce que je construis
 
-## 🧠 Stack
+- Sites publics, portfolios et landing pages orientés contenu, SEO et conversion.
+- Interfaces React / Next.js avec composants réutilisables et architecture lisible.
+- Templates web pour créateurs, artistes, thérapeutes, petites marques et indépendants.
+- Espaces membres, back-offices et parcours avec validation, paiement et email.
+- Documentation projet, critères d'acceptation, lots de production et checklists qualité.
+
+## Stack principale
 
 ### Front-end
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind" />
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
-<p align="center">
-  Interfaces · Architecture · Design system
+### Fullstack en progression
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-111827?style=flat-square&logo=stripe&logoColor=635BFF" />
+  <img alt="Resend" src="https://img.shields.io/badge/Resend-111827?style=flat-square&logo=resend&logoColor=white" />
 </p>
 
----
+### Outils
 
-### Backend (en progression)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,prisma" />
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" />
 </p>
 
-<p align="center">
-  Node.js · SQL · Prisma · Stripe
+## Projets sélectionnés
+
+| Projet | Type | Focus | Stack | Lien |
+| --- | --- | --- | --- | --- |
+| **Alchimiste Créations** | Studio freelance + admin | Cadrage, identité, UI, site de service | Next.js, TypeScript, Tailwind | En cours |
+| **Norel Art** | E-commerce artistique | Catalogue, admin, paiement, email | Next.js, Prisma, PostgreSQL, Stripe, Resend | [Voir](https://norel-art.vercel.app/) |
+| **Explor'Art** | Blog éditorial | UX de lecture, contenus, interface douce | Next.js, TypeScript, Tailwind | [Voir](https://explorart-blog.vercel.app/) |
+| **Ancre-toi** | Formation + espace membre | Parcours membre, paiement, ressources | Next.js, MongoDB, Stripe, Resend | [Voir](https://ancretoi.vercel.app/) |
+| **Présence Thérapeute** | Template métier | Structure commerciale, contenus, CMS | Next.js, Sanity, Tailwind | En cours |
+
+## Parcours technique
+
+Mes dépôts publics montrent aussi ma progression sur JavaScript, React, tests, API, Redux et TypeScript à travers plusieurs projets pédagogiques :
+
+<p>
+  <a href="https://github.com/stephanievanoverberghe/ocr-p6-fisheye">Fisheye</a> /
+  <a href="https://github.com/stephanievanoverberghe/ocr-p7-les-petits-plats">Les Petits Plats</a> /
+  <a href="https://github.com/stephanievanoverberghe/ocr-p9-billed">Billed</a> /
+  <a href="https://github.com/stephanievanoverberghe/ocr-p11-kasa">Kasa</a> /
+  <a href="https://github.com/stephanievanoverberghe/ocr-p12-sportsee">SportSee</a> /
+  <a href="https://github.com/stephanievanoverberghe/ocr-p13-argentbank">ArgentBank</a> /
+  <a href="https://github.com/stephanievanoverberghe/ocr-p14-hrnet-typescript">HRnet TypeScript</a>
 </p>
 
+## Ma façon de travailler
+
+- Clarifier le besoin avant de produire.
+- Structurer les écrans, les contenus et les composants avant l'intégration.
+- Penser mobile, responsive, accessibilité et états d'interface.
+- Garder une architecture lisible, documentée et progressive.
+- Vérifier la qualité avec lint, typecheck, build et tests quand ils existent.
+
+## Activité GitHub
+
 <p align="center">
-  <em>Apprentissage par projets concrets</em>
+  <img height="165" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=stephanievanoverberghe&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true" />
+  <img height="165" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievanoverberghe&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
 </p>
 
----
+## Contact
 
-### 🚀 Déploiement & qualité
+Je suis ouverte aux échanges autour de projets front-end, sites Next.js, templates web, interfaces produit et expériences orientées contenu.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,github" />
-</p>
-
-<p align="center">
-  Vercel · Git · CI/CD (déploiement automatique & preview)
-</p>
-
----
-
-## 🎯 Ce que je construis
-
-<p align="center">
-  Interfaces lisibles · composants solides · structure propre<br/>
-  <strong>moins de bruit, plus de sens</strong>
-</p>
-
----
-
-## 📊 Activité
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievanoverberghe&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=stephanievanoverberghe&bg_color=0d1117&color=8b5cf6&line=eab308&point=ffffff&area=true&hide_border=true"
-  />
-</p>
-
----
-
-## 🌱 Aujourd’hui
-
-<p align="center">
-  Construire du solide côté front.<br/>
-  Approfondir le backend progressivement.<br/>
-  Trouver un environnement où progresser vraiment.
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:stephanie-vanoverberghe@outlook.fr">Email</a> •
-  <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/">LinkedIn</a> •
+<p>
+  <a href="mailto:stephanie-vanoverberghe@outlook.fr">Email</a> /
+  <a href="https://www.linkedin.com/in/stephanie-vanoverberghe/">LinkedIn</a> /
   <a href="https://stephanie-vanoverberghe.dev/">Portfolio</a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:a3b18a,50:e2725b,100:8b5cf6"/>
 </p>
