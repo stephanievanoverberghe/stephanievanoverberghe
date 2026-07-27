@@ -103,7 +103,7 @@ Mes dépôts publics racontent aussi la progression avant les projets plus compl
 ## Activité GitHub
 
 <p align="center">
-  <a href="https://github.com/stephanievanoverberghe">
+  <a href="https://github.com/stephanievanoverberghe?tab=overview">
     <img alt="Graphique d'activité GitHub de Stéphanie" src="https://github-readme-activity-graph.vercel.app/graph?username=stephanievanoverberghe&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;height=300&amp;days=45&amp;custom_title=Activit%C3%A9%20GitHub" />
   </a>
 </p>
