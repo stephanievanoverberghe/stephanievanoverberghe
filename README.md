@@ -31,16 +31,16 @@ Ce qui me distingue : je pense **produit** avant de penser fichiers. Je cadre le
 
 ## Sur quoi je travaille
 
-**HexaSkill** · *école en ligne du numérique, par abonnement* · [voir le site](https://hexaskill-chi.vercel.app/)
-Mon projet principal (1 200+ commits). Plateforme d'apprentissage du grand débutant au professionnel, avec un parcours scénarisé et des leçons vidéo en animations SVG. Je fais tout : architecture, développement, contenu pédagogique, voix off.
+**HexaSkill** · *école en ligne du numérique, par abonnement* · [voir le site](https://hexaskill-chi.vercel.app/)  
+Mon projet principal (1 200+ commits). Plateforme d'apprentissage du grand débutant au professionnel, avec un parcours scénarisé et des leçons vidéo en animations SVG. Je fais tout : architecture, développement, contenu pédagogique, voix off.  
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `React Aria` `Vitest` `Playwright` `Claude API`
 
-**Alchimiste Créations** · *studio web freelance* · [code public](https://github.com/stephanievanoverberghe/alchimiste-creations-public)
-Site vitrine, CRM interne et espace client réunis : de la demande entrante au devis, à la production et à la livraison. Films de présentation générés en code avec Remotion.
+**Alchimiste Créations** · *studio web freelance* · [code public](https://github.com/stephanievanoverberghe/alchimiste-creations-public)  
+Site vitrine, CRM interne et espace client réunis : de la demande entrante au devis, à la production et à la livraison. Films de présentation générés en code avec Remotion.  
 `Next.js` `Astro` `Prisma` `PostgreSQL` `Auth.js` `Remotion` `GitHub Actions`
 
-**Les Contes du Silicium** · *projet de chaîne YouTube*
-Des contes qui expliquent l'informatique aux adultes débutants : écriture, narration, animation en code.
+**Les Contes du Silicium** · *projet de chaîne YouTube*  
+Des contes qui expliquent l'informatique aux adultes débutants : écriture, narration, animation en code.  
 `Remotion` `React` `TypeScript`
 
 ## Projets à explorer
