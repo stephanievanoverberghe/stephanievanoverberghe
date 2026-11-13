@@ -72,10 +72,10 @@ Mes projets tournent souvent autour de contenus visuels, de services indépendan
 
 | Projet | Type | Focus | Stack | Lien |
 | --- | --- | --- | --- | --- |
-| **Alchimiste Créations** | Studio freelance + admin | Identité, cadrage, site de service, espace de gestion | Next.js, TypeScript, Tailwind | En cours |
+| **Alchimiste Créations** | Studio freelance + admin | Identité, cadrage, site de service, espace de gestion | Next.js, TypeScript, Tailwind | [Code](https://github.com/stephanievanoverberghe/alchimiste-creations-public) |
 | **Norel Art** | E-commerce artistique | Catalogue, tunnel d'achat, admin, email | Next.js, Prisma, PostgreSQL, Stripe, Resend | [Voir](https://norel-art.vercel.app/) |
 | **Explor'Art** | Blog éditorial | Lecture confortable, contenus guidés, ambiance douce | Next.js, TypeScript, Tailwind | [Voir](https://explorart-blog.vercel.app/) |
-| **Ancre-toi** | Formation + espace membre | Parcours membre, ressources, paiement | Next.js, MongoDB, Stripe, Resend | [Voir](https://ancretoi.vercel.app/) |
+| **Ancre-toi** | Formation + espace membre | Parcours membre, ressources, paiement | Next.js, Prisma, PostgreSQL, Stripe, Resend | [Voir](https://ancretoi.vercel.app/) · [Code](https://github.com/stephanievanoverberghe/ancretoi-public) |
 | **Présence Thérapeute** | Template métier | Pages de service, contenus administrables, CMS | Next.js, Sanity, Tailwind | En cours |
 
 ## Parcours technique
