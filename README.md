@@ -99,8 +99,8 @@ Des contes qui expliquent l'informatique aux adultes débutants : écriture, nar
 
 ## Parcours
 
-- **2023** · Formation Développeur Web et Web Mobile
-- **2024 – 2025** · Parcours Développeur Front-End OpenClassrooms : [Fisheye](https://github.com/stephanievanoverberghe/ocr-p6-fisheye) · [Les Petits Plats](https://github.com/stephanievanoverberghe/ocr-p7-les-petits-plats) · [Billed](https://github.com/stephanievanoverberghe/ocr-p9-billed) · [Kasa](https://github.com/stephanievanoverberghe/ocr-p11-kasa) · [SportSee](https://github.com/stephanievanoverberghe/ocr-p12-sportsee) · [ArgentBank](https://github.com/stephanievanoverberghe/ocr-p13-argentbank) · [HRnet](https://github.com/stephanievanoverberghe/ocr-p14-hrnet-typescript)
+- **2023** · Titre professionnel Développeur Web et Web Mobile (niveau 5, Bac+2), obtenu
+- **2024 – 2025** · Parcours Développeur Front-End OpenClassrooms, diplômée : [Fisheye](https://github.com/stephanievanoverberghe/ocr-p6-fisheye) · [Les Petits Plats](https://github.com/stephanievanoverberghe/ocr-p7-les-petits-plats) · [Billed](https://github.com/stephanievanoverberghe/ocr-p9-billed) · [Kasa](https://github.com/stephanievanoverberghe/ocr-p11-kasa) · [SportSee](https://github.com/stephanievanoverberghe/ocr-p12-sportsee) · [ArgentBank](https://github.com/stephanievanoverberghe/ocr-p13-argentbank) · [HRnet](https://github.com/stephanievanoverberghe/ocr-p14-hrnet-typescript)
 - **2025 – 2026** · Projets clients et produits complets en freelance (Alchimiste Créations), puis HexaSkill
 - **En cours** · IA pour développeurs (agents, API) · [Sciences informatiques](https://github.com/stephanievanoverberghe/sciences-informatiques), vers un socle d'ingénierie
 
